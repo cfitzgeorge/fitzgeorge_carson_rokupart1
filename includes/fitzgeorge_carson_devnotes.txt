@@ -1,0 +1,7 @@
+I am not the developer in this project, but my partner (who shall remain unnamed for now, but let's be honest, you probably already know) will be. This is just a placeholder for when they access the Github repo. Everything here is subject to change. 
+
+- We could fetch an SQL database for a few sample movies/shows/bands so we can organize by decade, name, rating, etc
+
+- Maybe the glitter pattern in the mockups could become more and more apparent the further you go into the menus? 
+
+
